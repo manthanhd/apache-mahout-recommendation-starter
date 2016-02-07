@@ -1,0 +1,13 @@
+apply plugin: 'java'
+apply plugin: 'idea'
+apply plugin: 'application'
+
+mainClassName = "com.manthanhd.mahoutstarter.Starter"
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'org.apache.mahout:mahout-mr:0.11.1'
+}
