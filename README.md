@@ -1,4 +1,4 @@
-# apache-mahout-recommendation-starter
+# Apache Mahout Recommendation Starter
 Simple Java project that recommends items for user.
 
 # Getting started
